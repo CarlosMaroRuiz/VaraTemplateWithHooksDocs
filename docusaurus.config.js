@@ -7,7 +7,7 @@ const config = {
     tagline: 'Documentación ',
     favicon: 'img/favicon.ico',
 
-    url: 'https://your-vara-docs.com',
+    url: 'https://monogatari-template',
     baseUrl: '/',
 
     organizationName: 'Monogatari devs',
@@ -42,7 +42,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
         navbar: {
-            title: 'VaraTemplateWithHooks for monogatari',
+            title: 'VaraTemplateWithHooks',
             items: [{
                 type: 'docSidebar',
                 sidebarId: 'docs',
