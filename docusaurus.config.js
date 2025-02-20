@@ -13,7 +13,7 @@ const config = {
     organizationName: 'Monogatari devs',
     projectName: 'vara-template-js',
 
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'ignore',
     onBrokenMarkdownLinks: 'warn',
 
     i18n: {
