@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 # useContractMutation (V1)
@@ -162,7 +162,6 @@ useEffect(() => {
 ```js
 function IntegratedContract() {
   const mutation = useContractMutation('Service', 'Method')
-  const { wallet } = useWalletManagement()
   const { data } = useContractQuery('Service', 'Query')
 
   // Combinar funcionalidad
