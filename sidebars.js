@@ -6,8 +6,8 @@ const sidebars = {
             type: 'category',
             label: 'Hooks',
             items: [
-                'hooks/useWalletManagement',
-                'hooks/Ejemplos useWalletManagement',
+                'hooks/useLocalWallet',
+                'hooks/useExtensionWallet',
                 'hooks/useContractMutation',
                 'hooks/useContractQuery'
             ]

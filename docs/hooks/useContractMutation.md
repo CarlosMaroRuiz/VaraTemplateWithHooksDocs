@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# useContractMutation
+# useContractMutation (V1)
 
 Hook para realizar mutaciones (transacciones que modifican estado) en contratos de la red Vara.
 
